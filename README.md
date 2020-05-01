@@ -1,5 +1,5 @@
 # Blinky 📸
-Python Selfie App that captures selfies at the blink of your eyes ;)
+A Python Selfie App that captures selfies at the blink of your eyes ;)
 
 ## Installation
 
@@ -12,7 +12,7 @@ Python Selfie App that captures selfies at the blink of your eyes ;)
   * scipy
 
 ## Download the model:
-[shape_predictor_68_face_landmarks]()
+[shape_predictor_68_face_landmarks](https://drive.google.com/file/d/1i5bJtlstVU5dZpZ_4eCo0wAceg-7Cs2K/view?usp=sharing)
 Save this in the model folder
 
 ### Usage
