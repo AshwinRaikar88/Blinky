@@ -32,6 +32,7 @@ The image will be saved in output directory.
 *  This program was successfully tested on windows
 
 ## Thanks
-Thanks to [@Adrian Rosebrock](https://github.com/jrosebr1) for his code on Eye blink detection with OpenCV, Python, and dlib, the module that helps in implementing blink detection.
+Thanks to [@Adrian Rosebrock](https://github.com/jrosebr1) for his code on Eye blink detection with OpenCV, Python, and dlib, the module that helps in implementing blink detection.For more explaination and detailed understanding of the process do check out his [blog post](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/).
 
+## Citation
 Adrian Rosebrock, Eye blink detection with OpenCV, Python, and dlib, PyImageSearch, https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/, accessed on 28 April 2020
