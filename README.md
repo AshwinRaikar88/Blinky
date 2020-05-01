@@ -1,5 +1,5 @@
-# Blinky
-This is a python selfie app that captures selfies at the blink of your eyes ;)
+# Blinky 📸
+Python Selfie App that captures selfies at the blink of your eyes ;)
 
 ## Installation
 
