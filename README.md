@@ -20,6 +20,7 @@ Run app.py on the terminal
 ```bash
 python3 app.py
 ```
+![](https://github.com/AshwinRaikar88/Blinky/blob/master/output/demo.gif?raw=true)
 * Just blink both your eyes to capture an image
   the app will close automatically
 * If you want to quit, just press 'q'
